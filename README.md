@@ -1,5 +1,7 @@
 # prototype
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/LiamDotPro/VuexStoreExample.svg)](https://greenkeeper.io/)
+
 > A Vue.js project
 
 ## Build Setup
